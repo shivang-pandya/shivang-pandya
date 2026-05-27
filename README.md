@@ -68,7 +68,7 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 # 🏆 Achievements
 
 - Anirveda's(PDEU) Breach 2026 Hackathon winner 
-- Finalist @ ODOO x Amalthea IIT Gandhinagar
+- Finalist @ ODOO x Amalthea IIT Gandhinagar hackathon 2024
 
 ---
 
