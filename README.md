@@ -1,5 +1,6 @@
 # Hi 👋, I'm SHIVANG PANDYA
 
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="left">Backend Developer | Full Stack Developer</h3>
 
 
@@ -11,7 +12,6 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 - ✉️ Reach me at **shivangpandya15@gmail.com**  
 - 🚀 Interested in Backend Development, AI Systems, and Cloud Technologies  
 - 💡 Currently exploring scalable architectures and ML-integrated web applications  
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 # 🚀 Tech Stack
@@ -86,4 +86,3 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 </p>
----
