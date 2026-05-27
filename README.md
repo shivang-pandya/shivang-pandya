@@ -2,16 +2,16 @@
 
 <h3 align="left">Backend Developer | Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 Third-year Computer Science undergraduate pursuing a Minor in Adaptive AI.  
 Focused on building scalable backend systems, AI-powered applications, and modern full-stack platforms.
 
-- 🌍 Based in Ahmedabad, India  
+- 🌍 Living in Ahmedabad, India  
 - ✉️ Reach me at **shivangpandya15@gmail.com**  
 - 🚀 Interested in Backend Development, AI Systems, and Cloud Technologies  
 - 💡 Currently exploring scalable architectures and ML-integrated web applications  
-
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ---
 
 # 🚀 Tech Stack
@@ -63,7 +63,12 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivang-pandya&theme=chartreuse-dark&hide_border=true" height="180"/>
 </p>
 
+---
 
+# 🏆 Achievements
+
+- Anirveda's(PDEU) Breach 2026 Hackathon winner 
+- Finalist @ ODOO x Amalthea IIT Gandhinagar
 
 ---
 
@@ -72,7 +77,7 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
 </p>
-
+  
 ---
 
 # ⚡ Fun Zone
@@ -81,17 +86,4 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
 </p>
-
 ---
-
-# 🏆 Achievements
-
-- Anirveda's(PDEU) Breach 2026 Hackathon winner 
-- Finalist @ ODOO x Amalthea IIT Gandhinagar   
-
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shivang-pandya&label=Profile%20Views&color=84cc16&style=for-the-badge" />
-</p>
