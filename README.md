@@ -1,6 +1,6 @@
 # Hi 👋, I'm SHIVANG PANDYA
 
-<h3 align="left">Backend Developer | AI Enthusiast | Full Stack Developer</h3>
+<h3 align="left">Backend Developer | Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -60,13 +60,10 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shivang-pandya&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivang-pandya&theme=chartreuse-dark&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivang-pandya&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
+
 
 ---
 
