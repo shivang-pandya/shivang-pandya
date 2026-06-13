@@ -5,7 +5,7 @@
 
 
 
-Third-year Computer Science undergraduate pursuing a Minor in Adaptive AI.  
+Third-year Computer Science undergraduate, also pursuing a Minor in Adaptive AI.  
 Focused on building scalable backend systems, AI-powered applications, and modern full-stack platforms.
 
 - 🌍 Living in Ahmedabad, India  
