@@ -57,22 +57,12 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shivang-pandya&theme=chartreuse-dark&hide_border=true" height="180"/>
-</p>
-
----
-
 # 🏆 Achievements
 
 - Anirveda's(PDEU) Breach 2026 Hackathon winner 
 - Finalist @ ODOO x Amalthea IIT Gandhinagar hackathon 2024
 
 ---
-
-# 🐍 Contribution Graph
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
