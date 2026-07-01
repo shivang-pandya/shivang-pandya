@@ -45,11 +45,6 @@ Focused on building scalable backend systems, AI-powered applications, and moder
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/shivang-pandya" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="45" height="45" />
-</a>
-
 <a href="https://www.linkedin.com/in/shivang-pandya-72837927b/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" />
 </a>
